@@ -5,4 +5,4 @@
 This folder contains a stacked Convolution Neural Network model proposed to handle problems regarding Solar Energy Prediction using data taken from Global Ensemble Forecast System (GEFS).
 
 
-![](https://storage.googleapis.com/kaggle-competitions/kaggle/3354/logos/front_page.png)
+![](https://cs.ou.edu/~djgagne/gefs_mesonet_stations.png)
