@@ -1,2 +1,8 @@
 # AMS-2013-2014-Solar-Energy-Prediction-Contest
-Kaggle Constest on Solar Energy Prediction for netCDF4 files using CNN techniques 
+
+[Kaggle Constest](https://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest/overview) on Solar Energy Prediction for netCDF4 files using CNN techniques.
+
+This folder contains a stacked Convolution Neural Network model proposed to handle problems regarding Solar Energy Prediction using data taken from Global Ensemble Forecast System (GEFS).
+
+
+![](https://storage.googleapis.com/kaggle-competitions/kaggle/3354/logos/front_page.png)
